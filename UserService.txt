@@ -3,3 +3,5 @@ process the data
 
 
 Create an avatar for user
+
+Create avatar2 for user2
