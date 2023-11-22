@@ -3,3 +3,6 @@ process the data
 
 
 Create an avatar for user
+
+
+Create avatar Model 
