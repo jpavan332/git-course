@@ -4,4 +4,4 @@ process the data
 
 Create an avatar for user
 
-Create avatar2 for user2
+Create avatar2 for model
